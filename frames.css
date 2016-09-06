@@ -1,0 +1,11 @@
+/* contentent&menue division */
+#contentFrame {
+	margin: 5px;
+	}
+
+
+#menuFrame{
+	min-height:100%;
+	height:500px;
+	float:left;
+}
